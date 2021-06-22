@@ -1,0 +1,125 @@
+*{
+	font-family: 'Lobster', cursive;
+}
+
+body{
+
+    background-color: #F6F7F7;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+h1{
+	color: #000000;
+}
+
+h2{
+	color: #000000;
+}
+
+a{
+	color: #2874A6;
+}
+
+.Titulo-Prueba{
+	color: #D40F0F;
+}
+
+.Parrafo-1{
+	color: #000000;
+}
+
+.Subtitulo-1{
+	color: #D40F0F;
+}
+
+.Subtitulo-2{
+	color: #D40F0F;
+}
+
+.Subtitulo-3{
+	color: #D40F0F;
+}
+
+.Descripcion-1{
+	color: #000000;
+}
+
+.Subtitulo{
+    text-align: center;
+	margin: 5px 100px;
+	padding: 10px;
+}
+
+.imgC{
+	width:289px;
+	height:389px;
+}
+
+.In{
+	width:250px;
+	height:330px;
+
+}
+
+.Newton{
+    text-align: center;
+	margin: 5px 100px;
+	padding: 10px;
+
+}
+
+.NewtonColor{
+	color: #D40F0F;
+}
+
+.ANAFRANK{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+	color: #000000;
+}
+
+.MP{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.CA{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.VP{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.OP{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.IN{
+	/*border:4px solid #000000;*/
+	text-align: center;
+	margin: 5px 260px;
+	padding: 10px;
+	border-radius: 50px;
+}
+
